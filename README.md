@@ -8,6 +8,9 @@ Special thanks will probably go to:
  -  [Sh0wdown](https://github.com/Sh0wdown) for reigniting my love for this game
  -  [Evrey](https://github.com/Evrey) for helping me with AI Villages via discord and YouTube as well
  -  [FireFly Studios](https%3A%2F%2Ffireflyworlds.com) for the best game to date: Stronghold Crusader
+ 
+ 
+ -------
 
 I will create 8 castles for each of the lords, will try to stay close to the original ones,
 with maybe a few exceptions. I also will add a healer to my favourite Lords (Rat, Wolf, Caliph), as I just love
@@ -17,17 +20,23 @@ Even barbarians. I know, I know. The Caliph? The Rat? Yes. Sorry.
 Images for each aiv will be included.
 I won't fix any problems the vanilla AI has.
 
+-------
+
 Changes made:
 
 Ratty: Rat has 5 statues, and a healer.
 Piggy: More negative things, more wells. Patroulling macemen.
 
 
+------
+
+
 Installation is simple: goto your Stronghold Crusader installation directory, backup your AIV folder and then copy all the AI villages from my project you like into that folder.
 
-
+------
 
 Order in which I want to include the AI Villages:
+
 1. Rat
 2. Pig
 3. Wolf
@@ -47,5 +56,6 @@ Order in which I want to include the AI Villages:
 16. God damn Abbot
 
 
+--------
 
 ToDo: Fix this horrible formating and stuff..
