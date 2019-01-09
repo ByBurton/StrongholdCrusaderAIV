@@ -20,6 +20,7 @@ I won't fix any problems the vanilla AI has.
 Changes made:
 
 Ratty: Rat has 5 statues, and a healer.
+Piggy: More negative things, more wells. Patroulling macemen.
 
 
 Installation is simple: goto your Stronghold Crusader installation directory, backup your AIV folder and then copy all the AI villages from my project you like into that folder.
