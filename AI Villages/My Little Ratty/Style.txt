@@ -1,0 +1,18 @@
+All my Rat AI Villages feature:
+	- Very chaotic, nonsensical walls, stairs, paths.
+	- A healer
+	- A baracks
+	- A granary
+	- An armory
+	- 5 statues
+	- 2 fletchers
+	- 4 poleturners
+	- 2 wells
+	- One gate
+	- No towers at all
+	- 10 spots for archers
+	- Up to 10 spots for spearmen
+	- Bad build orders
+	- Up to three houses
+	- A trading post
+	- No additional stocking piles
