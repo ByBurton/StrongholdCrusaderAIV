@@ -16,3 +16,4 @@ All my Rat AI Villages feature:
 	- Up to three houses
 	- A trading post
 	- No additional stocking piles
+	- Archers only walls, not on gates
