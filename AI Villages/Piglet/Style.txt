@@ -1,0 +1,22 @@
+All my Pig AI Villages feature:
+	- Organized castle design, and a small wall around.
+		Castles may be devided into smaller areas, each overlooked by a tower.
+	- 3 big square towers with crossbowmen on them
+	- No healer
+	- A variable amount of bad things
+	- A baracks
+	- An engineers guild
+	- Two granaries
+	- Two armories
+	- 3 fletchers
+	- 3 blacksmiths
+	- 3 tanners
+	- A variable amount of wells
+	- At least two gates with one squad of crossbowmen on them
+	- Up to 10 spots for macemen
+	- 10 spots for crossbowmen
+	- Build orders are not optimized
+	- Up to seven houses
+	- A trading post
+	- One additional stockpile
+	- Killing pits (around stairs, gates, walkthroughs)
