@@ -8,7 +8,6 @@ Special thanks will probably go to:
  -  [Sh0wdown](https://github.com/Sh0wdown) for reigniting my love for this game
  -  [Evrey](https://github.com/Evrey) for helping me with AI Villages via discord and YouTube as well
  -  [FireFly Studios](https%3A%2F%2Ffireflyworlds.com) for the best game to date: Stronghold Crusader
-    (buy it on [steam](https://store.steampowered.com/app/40970/Stronghold_Crusader_HD/) !)
 
 I will create 8 castles for each of the lords, will try to stay close to the original ones,
 with maybe a few exceptions. I also will add a healer to my favourite Lords (Rat, Wolf, Caliph), as I just love
