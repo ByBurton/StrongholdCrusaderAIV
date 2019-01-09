@@ -10,6 +10,7 @@ the idea behind them. And every army has had healers.
 Even barbarians. I know, I know. The Caliph? The Rat? Yes. Sorry.
 
 Images for each aiv will be included.
+I won't fix any problems the vanilla AI has.
 
 Changes made:
 
