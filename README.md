@@ -14,3 +14,6 @@ Images for each aiv will be included.
 Changes made:
 
 Ratty: Rat has 5 statues, and a healer.
+
+
+Installation is simple: goto your Stronghold Crusader installation directory, backup your AIV folder and then copy all the AI villages from my project you like into that folder.
