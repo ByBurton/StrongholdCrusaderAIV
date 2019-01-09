@@ -14,4 +14,4 @@ Images for each aiv will be included.
 
 Changes made:
 
-Rat: Rat has 5 good things, and a healer.
+Rat: Rat has 5 statues, and a healer.
