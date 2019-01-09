@@ -26,4 +26,26 @@ Piggy: More negative things, more wells. Patroulling macemen.
 Installation is simple: goto your Stronghold Crusader installation directory, backup your AIV folder and then copy all the AI villages from my project you like into that folder.
 
 
+
+Order in which I want to include the AI Villages:
+1. Rat
+2. Pig
+3. Wolf
+4. Caliph
+5. Snake
+6. Saladin
+7. Richard
+8. Sultan
+-----
+9. Wazir
+10. Emir
+11. Sheriff
+12. Frederick
+13. Nazir
+14. Philip
+15. Marshal
+16. God damn Abbot
+
+
+
 ToDo: Fix this horrible formating and stuff..
