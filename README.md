@@ -1,8 +1,5 @@
 # StrongholdCrusaderAIV
-This project was started by me, because I was not satisfied with Evreys or Tatha's 
-AI Villages as much as I hoped I would be. So this will be my attempt.
-I don't mean to sound offending here. It is just personal taste, and I still use Evrey's
-for skirmish trail missions.
+This project was started, as a substitute to [Evrey](https://github.com/Evrey) 's AI Villages, as well as [Tatha](https://www.youtube.com/channel/UC4BrhBzHp1ymnczlkdKcSkg)'s.
 
 Special thanks will probably go to [heroesflorian](https://github.com/heroesflorian) , who helped me for yeaaaaaaaars
 by checking my created aiv files for mistakes.
