@@ -7,7 +7,7 @@ Special thanks will probably go to:
  -  [Udwin](https://www.youtube.com/user/UdwinLP) who reminds me almost daily what an awesome game Stronghold Crusader is
  -  [Sh0wdown](https://github.com/Sh0wdown) for reigniting my love for this game
  -  [Evrey](https://github.com/Evrey) for helping me with AI Villages via discord and YouTube as well
- -  [FireFly Studios](https%3A%2F%2Ffireflyworlds.com) for the best game to date: Stronghold Crusader
+ -  [FireFly Studios](https://fireflyworlds.com) for the best game to date: Stronghold Crusader
  
  
  -------
