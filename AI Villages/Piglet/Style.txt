@@ -20,3 +20,4 @@ All my Pig AI Villages feature:
 	- A trading post
 	- One additional stockpile
 	- Killing pits (around stairs, gates, walkthroughs)
+	- Two gallows as warm welcome at the gates
