@@ -1,7 +1,7 @@
 All my Pig AI Villages feature:
 	- Organized castle design, and a small wall around.
 		Castles may be devided into smaller areas, each overlooked by a tower.
-	- 3 big square towers with crossbowmen on them
+	- 3 to 5 big square towers with crossbowmen on them
 	- No healer
 	- A variable amount of bad things
 	- A baracks
