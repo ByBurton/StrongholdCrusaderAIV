@@ -1,0 +1,31 @@
+All my Wolf AI Villages feature:
+	- Organized castle design, [...]
+	- No religious buildings
+	- 3 to 5 big square towers with crossbowmen on them
+	- Variable amounts of healers around towers
+	- No fear factor
+	- A baracks
+	- An engineers guild
+	- Two granaries
+	- Two armories
+	- x fletchers
+	- x blacksmiths
+	- x tanners
+	- A variable amount of wells and bigger wells
+	- At least two gates
+	- Up to 10 spots for pikemen
+	- Up to 10 spots for swordsmen
+	- 10 spots for crossbowmen
+	- 10 spots for archers (european and arabian)
+	- Build orders are kind of optimized
+	- Up to nine houses
+	- A trading post
+	- Two additional stockpile
+	- Killing pits (around stairs, gates, walkthroughs)
+	- Pitch
+	- Oil throwers
+	- 7 fire ballistae
+	- 3 trebutchets
+	- 5 tower ballistae
+	- 5 mangonels
+	- [...]
