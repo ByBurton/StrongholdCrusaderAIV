@@ -1,7 +1,9 @@
 All my Wolf AI Villages feature:
-	- Organized castle design, [...]
+	- Organized castle design, with killing pits and thick walls. 
+	  Towers are placed in pretty good positions. Main focus is
+	  the front though.
 	- No religious buildings
-	- 3 to 5 big square towers with crossbowmen on them
+	- A variable amount of big square towers with crossbowmen on them
 	- Variable amounts of healers around towers
 	- A variable fear factor (potentially good or neutral as well)
 	- A baracks
