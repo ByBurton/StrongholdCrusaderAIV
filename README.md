@@ -24,8 +24,8 @@ I won't fix any problems the vanilla AI has.
 
 Changes made:
 
-Ratty: Rat has 5 statues, and a healer.
-Piggy: More negative things, more wells. Patroulling macemen.
+Ratty: Rat has 5 statues, and a healer. 
+Piggy: More negative things, more wells. Patroulling macemen. 
 
 (I included a textfile called style in each AI folder. It describes what my castles are based on.)
 
