@@ -8,6 +8,7 @@ Special thanks will probably go to:
  -  [Sh0wdown](https://github.com/Sh0wdown) for reigniting my love for this game
  -  [Evrey](https://github.com/Evrey) for helping me with AI Villages via discord and YouTube as well
  -  [FireFly Studios](https://fireflyworlds.com) for the best game to date: Stronghold Crusader
+ -  [Tatha](https://www.youtube.com/channel/UC4BrhBzHp1ymnczlkdKcSkg) for promising me to help out as well!
  
  
  -------
