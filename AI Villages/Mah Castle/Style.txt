@@ -9,7 +9,7 @@ All my Wolf AI Villages feature:
 	- An engineers guild
 	- Two granaries
 	- Two armories
-	- 4 fletchers
+	- 5 fletchers
 	- 4 blacksmiths
 	- 2 tanners
 	- 4 poleturners
