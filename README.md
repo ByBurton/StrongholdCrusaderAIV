@@ -9,6 +9,7 @@ Special thanks will probably go to:
  -  [Evrey](https://github.com/Evrey) for helping me with AI Villages via discord and YouTube as well
  -  [FireFly Studios](https://fireflyworlds.com) for the best game to date: Stronghold Crusader
  -  [Tatha](https://www.youtube.com/channel/UC4BrhBzHp1ymnczlkdKcSkg) for promising me to help out as well!
+ -  [Lolasik011](https://github.com/Lolasik011) for testing the AI Villages
  
  
  -------
@@ -29,7 +30,7 @@ Ratty: Rat has 5 statues, and a healer.
 
 Piggy: More negative things, more wells. Patroulling macemen. 
 
-Wolf: Random fear factor (good, neutral, evil). Healers around towers. A lot of weapon industry. Patroulling swordsmen and pikemen, but the later don't work.
+Wolf: Random fear factor (good, neutral, evil). Healers around towers. A lot of weapon industry. Patroulling pikemen and swordsmen, but the later don't work.
 
 (I included a textfile called style in each AI folder. It describes what my castles are based on.)
 
