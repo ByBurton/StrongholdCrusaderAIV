@@ -5,7 +5,7 @@ All my Wolf AI Villages feature:
 	- No religious buildings
 	- A variable amount of big square towers with crossbowmen on them
 	- Variable amounts of healers around towers
-	- A variable fear factor (potentially good or neutral as well)
+	- A variable fear factor (evil)
 	- A baracks
 	- A mercenary post
 	- An engineers guild

@@ -30,7 +30,7 @@ Ratty: Rat has 5 statues, and a healer.
 
 Piggy: More negative things, more wells. Patroulling macemen. 
 
-Wolf: Healers around towers. A lot of weapon industry. Patroulling pikemen and swordsmen, but the later don't work.
+Wolf: Variable negative fear factor. Healers around towers. A lot of weapon industry. Patroulling pikemen and swordsmen, but the later don't work.
 
 (I included a textfile called style in each AI folder. It describes what my castles are based on.)
 
