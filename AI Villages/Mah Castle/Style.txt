@@ -23,7 +23,7 @@ All my Wolf AI Villages feature:
 	- 10 spots for crossbowmen
 	- 10 spots for archers (european and arabian each)
 	- Build orders are kind of optimized
-	- Up to twelf houses
+	- At least twelf houses
 	- A trading post
 	- Two additional stockpiles
 	- Killing pits (around stairs, gates, walkthroughs)
