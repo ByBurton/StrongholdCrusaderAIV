@@ -1,0 +1,22 @@
+All my Snake AI Villages feature:
+	- Kinda roundish castle design, with tower2 s and tower3 s.
+	  Wall is always 2 layers thick, and some walls are replaced with water.
+	- No religious buildings
+	- Variable amount of towers and gates with archers on it
+	- Two healers
+	- A variable fear factor (good)
+	- A baracks
+	- A mercenary post
+	- An engineers guild
+	- Two granaries
+	- Two armories
+	- 7 fletchers
+	- 7 poleturners
+	- A variable amount of wells
+	- Up to 3 spots for pikemen
+	- 10 spots for archers (european and arabian each)
+	- Build orders are not optimized
+	- At least five houses
+	- A trading post
+	- One additional stockpile
+	- 10 Spots for slingers at wall ends and gates
