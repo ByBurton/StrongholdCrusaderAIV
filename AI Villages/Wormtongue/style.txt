@@ -8,7 +8,7 @@ All my Snake AI Villages feature:
 	- A baracks
 	- A mercenary post
 	- An engineers guild
-	- Two granaries
+	- one or two granaries
 	- Two armories
 	- 7 fletchers
 	- 7 poleturners

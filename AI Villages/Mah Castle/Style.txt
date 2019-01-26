@@ -29,9 +29,9 @@ All my Wolf AI Villages feature:
 	- Killing pits (around stairs, gates, walkthroughs)
 	- [Pitch] -> will probably not be added until european archers can light it
 	- engineers with oil on gates
-	- up to 9 fire ballistae
+	- up to 9 fire ballistae (3 probably don't work if more than 6)
 	- up to 3 trebutchets
-	- up to 5 tower ballistae
-	- up to 5 mangonels
+	- up to 6 tower ballistae
+	- up to 6 mangonels
 	- 4 breweries
 	- 4 inns
