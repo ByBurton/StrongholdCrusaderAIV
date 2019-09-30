@@ -1,0 +1,20 @@
+All my Caliph AI Villages feature:
+	- Small, minimalistic castle design with lots of pitch outside the walls
+	- 9 watchtowers manned with arabian archers that use fire arrows
+	- No healer
+	- A variable amount of bad things
+	- A mercenary post
+	- An engineers guild
+	- One granary
+	- Two breweries
+	- Two inns
+	- A variable amount of wells
+	- One gate
+	- Gates, keep and walls manned with fire throwers and / or engineers with oil
+	- Up to 10 spots for slaves and arabian swordsmen
+	- 10 spots for arabian archers (9 on towers, 1 on keep)
+	- Build orders are not optimized
+	- Up to six houses
+	- A trading post
+	- One additional stockpile
+	- Lots of pitch outside the walls
